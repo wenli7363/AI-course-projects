@@ -1,2 +1,3 @@
 # AI-course-projects
-heuristic search + ID3 decision tree + Markov
+This repository is about my AI course project. Including heuristic search, ID3 decision Tree, Markov.
+
